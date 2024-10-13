@@ -1,0 +1,31 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    background-color: antiquewhite;
+}
+
+canvas{
+    border: 3px solid gray;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+    user-select: none;
+    touch-action: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    outline: none;
+    -webkit-tap-highlight-color: rgba(255,255,255,0);
+    
+}
+
+
